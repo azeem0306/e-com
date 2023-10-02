@@ -25,6 +25,7 @@ function App() {
           <NavBar />
           <Routes>
             <Route path="/" element={<Home/>} />
+            <Route path="/e-com" element={<Home/>} />
             <Route path="/all-products">
               <Route path=':prodkey' element={<ProductDescription/>} />
               <Route index element={<ProductPage/>} />

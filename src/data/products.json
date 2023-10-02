@@ -1,0 +1,236 @@
+[
+    {
+        "id": 0,
+        "title": "Sports Shirts",
+        "category": "fashion",
+        "price": "2500.00",
+        "image": "https://f.nooncdn.com/p/v1643117053/N51488390V_1.jpg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "key": "prDct00fashion0001"
+    },
+    {
+        "id": 1,
+        "title": "Asus TUF Laptop",
+        "category": "laptops",
+        "price": "225000.00",
+        "image": "https://f.nooncdn.com/p/v1656599537/N53183301A_1.jpg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "key": "prDct00laptops0002"
+    },
+    {
+        "id": 2,
+        "title": "Apple iPhone 13 Pro 128GB",
+        "category": "mobiles",
+        "price": "295000.00",
+        "image": "https://f.nooncdn.com/p/v1662964809/N53347167A_1.jpg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "key": "prDct00mobiles0003"
+    },
+    {
+        "id": 3,
+        "title": "Samsung 50' UHD TV",
+        "category": "television",
+        "price": "175000.00",
+        "image": "https://f.nooncdn.com/p/v1668527281/N46458529A_1.jpg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "key": "prDct00television0004"
+    },
+    {
+        "id": 4,
+        "title": "Apple Watch Series 8",
+        "category": "wearables",
+        "price": "75000.00",
+        "image": "https://f.nooncdn.com/p/v1662647992/N53349205A_1.jpg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "key": "prDct00wearables0005"
+    },
+    {
+        "id": 5,
+        "title": "OnePlus 11 Dual Sim 16GB RAM 256GB 5G",
+        "category": "mobiles",
+        "price": "85000.00",
+        "image": "https://f.nooncdn.com/p/v1674545923/N53375998A_1.jpg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "key": "prDct00mobiles0006"
+    },
+    {
+        "id": 6,
+        "title": "Sony Playstation 5 (Disc Version)",
+        "category": "videoogame",
+        "price": "65000.00",
+        "image": "https://f.nooncdn.com/p/v1669308191/N42342017A_1.jpg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "key": "prDct00videoogame0007"
+    },
+    {
+        "id": 7,
+        "title": "Samsung S23+",
+        "category": "mobiles",
+        "price": "233000.00",
+        "image": "https://f.nooncdn.com/p/v1676522497/N53376502A_1.jpg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "key": "prDct00mobiles0008"
+    },
+    {
+        "id": 8,
+        "title": "Apple iPhone 14 Pro Max 256GB",
+        "category": "mobiles",
+        "price": "380000.00",
+        "image": "https://f.nooncdn.com/p/v1662640955/N53347217A_1.jpg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "key": "prDct00mobiles0009"
+    },
+    {
+        "id": 9,
+        "title": "Samsung A73 8GB RAM 256GB",
+        "category": "mobiles",
+        "price": "92000.00",
+        "image": "https://f.nooncdn.com/p/v1657621564/N52953362A_1.jpg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "key": "prDct00mobiles00010"
+    },
+    {
+        "id": 10,
+        "title": "Samsung A53 8GB RAM 128GB",
+        "category": "mobiles",
+        "price": "75000.00",
+        "image": "https://f.nooncdn.com/p/v1669651407/N52736884A_1.jpg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "key": "prDct00mobiles00011"
+    },
+    {
+        "id": 11,
+        "title": "Realme C55 8GB RAM 256GB",
+        "category": "mobiles",
+        "price": "88000.00",
+        "image": "https://f.nooncdn.com/p/v1677677101/N53388205A_1.jpg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "key": "prDct00mobiles00012"
+    },
+    {
+        "id": 12,
+        "title": "Apple iPad 2021 128GB",
+        "category": "mobiles",
+        "price": "150000.00",
+        "image": "https://f.nooncdn.com/p/v1643263567/N50867004A_1.jpg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "key": "prDct00mobiles00013"
+    },
+    {
+        "id": 13,
+        "title": "Nothing phone 1 8GB 128GB",
+        "category": "mobiles",
+        "price": "180000.00",
+        "image": "https://f.nooncdn.com/p/v1658494421/N53336981A_1.jpg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "key": "prDct00mobiles00014"
+    },
+    {
+        "id": 14,
+        "title": "Moto G13 6GB RAM 128GB",
+        "category": "mobiles",
+        "price": "110000.00",
+        "image": "https://f.nooncdn.com/p/v1678086730/N53384619A_12.jpg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "key": "prDct00mobiles00015"
+    },
+    {
+        "id": 15,
+        "title": "Xiaomi Redmi Note 10 Pro 8GB RAM 128GB",
+        "category": "mobiles",
+        "price": "125000.00",
+        "image": "https://f.nooncdn.com/p/v1664962300/N53355378A_1.jpg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "key": "prDct00mobiles00016"
+    },
+    {
+        "id": 16,
+        "title": "Xiaomi Redmi 12C 4GB RAM 128GB",
+        "category": "mobiles",
+        "price": "57000.00",
+        "image": "https://f.nooncdn.com/p/v1676796324/N53385337A_1.jpg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "key": "prDct00mobiles00017"
+    },
+    {
+        "id": 17,
+        "title": "Apple iPhone 14 Plus 128GB",
+        "category": "mobiles",
+        "price": "210000.00",
+        "image": "https://f.nooncdn.com/p/v1678356191/N53390238A_1.jpg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "key": "prDct00mobiles00018"
+    },
+    {
+        "id": 18,
+        "title": "Samsung A22 4GB RAM 128GB",
+        "category": "mobiles",
+        "price": "66000.00",
+        "image": "https://f.nooncdn.com/p/v1673868142/N53377897A_1.jpg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "key": "prDct00mobiles00019"
+    },
+    {
+        "id": 19,
+        "title": "Apple iPhone 6S 64GB",
+        "category": "mobiles",
+        "price": "70000.00",
+        "image": "https://f.nooncdn.com/p/v1536304663/N16945089A_1.jpg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "key": "prDct00mobiles00020"
+    },
+    {
+        "id": 20,
+        "title": "Apple iPhone 11 128GB",
+        "category": "mobiles",
+        "price": "140000.00",
+        "image": "https://f.nooncdn.com/p/v1667937176/N41233411A_1.jpg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "key": "prDct00mobiles00021"
+    },
+    {
+        "id": 21,
+        "title": "Apple iPhone 13 Dual Sim 128GB",
+        "category": "mobiles",
+        "price": "220000.00",
+        "image": "https://f.nooncdn.com/p/v1666919093/N50838254A_1.jpg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "key": "prDct00mobiles00022"
+    },
+    {
+        "id": 22,
+        "title": "Apple iPhone 12 Pro 256GB",
+        "category": "mobiles",
+        "price": "180000.00",
+        "image": "https://f.nooncdn.com/p/v1666191718/N41233383A_2.jpg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "key": "prDct00mobiles00023"
+    },
+    {
+        "id": 23,
+        "title": "Huawei Y9 4GB RAM 64GB",
+        "category": "mobiles",
+        "price": "34000.00",
+        "image": "https://f.nooncdn.com/p/v1539176919/N18768182A_1.jpg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "key": "prDct00mobiles00024"
+    },
+    {
+        "id": 24,
+        "title": "Huawei P50 Pocket 8GB RAM 256GB",
+        "category": "mobiles",
+        "price": "280000.00",
+        "image": "https://f.nooncdn.com/p/v1641301797/N52343795A_1.jpg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "key": "prDct00mobiles00025"
+    },
+    {
+        "id": 25,
+        "title": "Huawei Nova 10 SE 8GB RAM 128GB",
+        "category": "mobiles",
+        "price": "80000.00",
+        "image": "https://f.nooncdn.com/p/v1665416092/N53356389A_1.jpg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "key": "prDct00mobiles00026"
+    }
+]

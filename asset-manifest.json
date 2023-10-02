@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/e-com/static/css/main.a7fbe4e1.css",
+    "main.js": "/e-com/static/js/main.e24b6032.js",
+    "static/media/azeem.jpeg": "/e-com/static/media/azeem.1f696da4fb915edda5f1.jpeg",
+    "index.html": "/e-com/index.html",
+    "main.a7fbe4e1.css.map": "/e-com/static/css/main.a7fbe4e1.css.map",
+    "main.e24b6032.js.map": "/e-com/static/js/main.e24b6032.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7fbe4e1.css",
+    "static/js/main.e24b6032.js"
+  ]
+}
